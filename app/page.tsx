@@ -24,7 +24,7 @@ export default async function Home() {
   const artCol4_1 = allArticles[3];
 
   return (
-    <div className="max-w-[1600px] mx-auto px-6 sm:px-10 lg:px-16 xl:px-24 pt-0 sm:pt-6 pb-6">
+    <div className="max-w-[1600px] mx-auto px-6 sm:px-10 lg:px-16 xl:px-24 pt-4 sm:pt-6 pb-6">
       
       {/* SECTION 1: Hero Newspaper Grid (4 Columns) */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-10 gap-6 lg:gap-8 animate-fade-in">
