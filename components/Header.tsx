@@ -70,11 +70,11 @@ export default function Header() {
       );
 
   return (
-    <header className="sticky top-0 z-50 w-full transition-all duration-300 shadow-xs mb-6 sm:mb-8">
+    <header className="sticky top-0 z-50 w-full transition-all duration-300 shadow-xs mb-2 sm:mb-8">
       {/* ============================================================= */}
       {/* LAYER 1: Minimal Top Utility Bar (Date & Sunlight/Weather) */}
       {/* ============================================================= */}
-      <div className="w-full border-b border-ink/10 bg-paper/90 backdrop-blur-md py-2 px-6 sm:px-10 lg:px-16 xl:px-24 text-xs font-sans text-ink">
+      <div className="w-full border-b border-ink/10 bg-paper/90 backdrop-blur-md py-2 px-6 sm:px-10 lg:px-16 xl:px-24 text-[9px] sm:text-xs font-sans text-ink">
         <div className="max-w-[1700px] mx-auto flex items-center justify-between gap-4">
           
           {/* Left: Date & Live Status Indicator */}
@@ -83,13 +83,13 @@ export default function Header() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-600"></span>
             </span>
-            <span className="font-semibold text-ink/80 text-[11px] uppercase tracking-wider font-sans">
+            <span className="font-semibold text-ink/80 text-[9px] sm:text-[11px] uppercase tracking-wider font-sans">
               {currentDate || "Monday, August 10, 2026"}
             </span>
           </div>
 
           {/* Right: Sunlight / Weather Badge & Edition */}
-          <div className="flex items-center gap-4 text-[11px] font-sans">
+          <div className="flex items-center gap-4 text-[9px] sm:text-[11px] font-sans">
             {/* Weather / Sunlight info */}
             <div className="flex items-center gap-1.5 text-gray-700 hover:text-ink transition-colors cursor-default">
               <svg className="w-3.5 h-3.5 text-amber-500" fill="currentColor" viewBox="0 0 20 20">
