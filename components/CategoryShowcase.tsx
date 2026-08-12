@@ -49,11 +49,11 @@ export default async function CategoryShowcase() {
                   />
                 </div>
                 
-                <h4 className="text-[1.2rem] font-serif font-bold leading-tight mb-2.5 group-hover:underline decoration-1 underline-offset-2 transition-all">
+                <h4 className="text-[1.2rem] font-serif font-bold leading-tight mb-2.5 group-hover:underline decoration-1 underline-offset-2 transition-all line-clamp-2">
                   {item.article.title}
                 </h4>
                 
-                <p className="text-[11px] leading-relaxed font-medium text-gray-800 mb-3 line-clamp-3 flex-grow">
+                <p className="text-[11px] leading-[1.4] font-medium text-gray-800 mb-3 line-clamp-3 flex-grow">
                   {item.article.shortdescription}
                 </p>
 
