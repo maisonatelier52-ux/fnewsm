@@ -1,134 +1,134 @@
 [
-    {
-        "category": "entertainment",
-        "title": "International Film Festival Celebrates Renaissance of Cinema",
-        "slug": "international-film-festival-celebrates-cinema-renaissance",
-        "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
-        "date": "August. 06, 2026",
-        "shortdescription": "Directors, actors, and independent filmmakers gathered for the opening ceremony of the annual festival featuring 120 premiere screenings.",
-        "description": [
-            {
-                "subtitle": "Global Storytelling Showcase",
-                "text": "The jury commended this year’s diverse lineup, highlighting groundbreaking cinematography and practical special effects masterworks."
-            }
-        ],
-        "author": {
-            "name": "Elena Rostova",
-            "role": "Arts & Culture Editor",
-            "bio": "Elena reviews world cinema and cultural retrospectives.",
-            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
-            "slug": "elena-rostova",
-            "email": "elena.rostova@wiremingle.com"
-        }
-    },
-    {
-        "category": "entertainment",
-        "title": "Acoustic Symphony Hall Reopens After 3-Year Architectural Restoration",
-        "slug": "acoustic-symphony-hall-reopens-after-restoration",
-        "image": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=800&q=80",
-        "date": "August. 05, 2026",
-        "shortdescription": "The historic venue debuted state-of-the-art acoustic panels and immersive spatial audio technology during a sold-out opening night gala.",
-        "description": [
-            {
-                "subtitle": "A Triumph of Musical Engineering",
-                "text": "Conductors praised the pristine sonic balance that allows subtle woodwind passages to resonate crystal-clear to the highest balcony seats."
-            }
-        ],
-        "author": {
-            "name": "Elena Rostova",
-            "role": "Arts & Culture Editor",
-            "bio": "Elena reviews world cinema and cultural retrospectives.",
-            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
-            "slug": "elena-rostova",
-            "email": "elena.rostova@wiremingle.com"
-        }
-    },
-    {
-        "category": "entertainment",
-        "title": "Streaming Platforms Announce Joint Digital Heritage Preservation Fund",
-        "slug": "streaming-platforms-announce-digital-heritage-fund",
-        "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=800&q=80",
-        "date": "August. 04, 2026",
-        "shortdescription": "Major entertainment studios pledged $500 million to remaster and preserve 4K digital archives of classic mid-century television and film.",
-        "description": [
-            {
-                "subtitle": "Preserving Cinematic History",
-                "text": "Archivists will utilize machine learning restoration tools to repair damaged celluloid negatives and preserve historical audio recordings."
-            }
-        ],
-        "author": {
-            "name": "Elena Rostova",
-            "role": "Arts & Culture Editor",
-            "bio": "Elena reviews world cinema and cultural retrospectives.",
-            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
-            "slug": "elena-rostova",
-            "email": "elena.rostova@wiremingle.com"
-        }
-    },
-    {
-        "category": "entertainment",
-        "title": "Contemporary Art Triennale Draws Record Attendance in Venice",
-        "slug": "contemporary-art-triennale-draws-record-attendance",
-        "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=800&q=80",
-        "date": "August. 03, 2026",
-        "shortdescription": "Immersive light installations, architectural sculptures, and interactive digital exhibits transformed historic pavilions along the Grand Canal.",
-        "description": [
-            {
-                "subtitle": "Exploring Modern Visual Expression",
-                "text": "Curators noted an unprecedented surge in youth patronage driven by interactive installation designs and soundscape collaborations."
-            }
-        ],
-        "author": {
-            "name": "Elena Rostova",
-            "role": "Arts & Culture Editor",
-            "bio": "Elena reviews world cinema and cultural retrospectives.",
-            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
-            "slug": "elena-rostova",
-            "email": "elena.rostova@wiremingle.com"
-        }
-    },
-    {
-        "category": "entertainment",
-        "title": "Independent Literature Awards Announce 2026 Finalists",
-        "slug": "independent-literature-awards-announce-2026-finalists",
-        "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=800&q=80",
-        "date": "August. 02, 2026",
-        "shortdescription": "Sixteen novels, poetry collections, and translated memoirs were selected for the prestigious annual literary honours across four categories.",
-        "description": [
-            {
-                "subtitle": "Celebrating Original Voices",
-                "text": "Judges emphasized the exceptional narrative depth and linguistic innovation present in this year’s shortlisted fiction works."
-            }
-        ],
-        "author": {
-            "name": "Elena Rostova",
-            "role": "Arts & Culture Editor",
-            "bio": "Elena reviews world cinema and cultural retrospectives.",
-            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
-            "slug": "elena-rostova",
-            "email": "elena.rostova@wiremingle.com"
-        }
-    },
-    {
-        "category": "entertainment",
-        "title": "Global Live Music Industry Reports Historic Festival Expansion",
-        "slug": "global-live-music-industry-reports-festival-expansion",
-        "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&q=80",
-        "date": "August. 01, 2026",
-        "shortdescription": "Concert promoters unveiled new sustainable outdoor amphitheaters powered entirely by solar microgrids and hydrogen fuel cells.",
-        "description": [
-            {
-                "subtitle": "The Future of Eco-Friendly Live Events",
-                "text": "Organizers report zero single-use plastics and 100% renewable power utilization across major summer stadium tour dates."
-            }
-        ],
-        "author": {
-            "name": "Elena Rostova",
-            "role": "Arts & Culture Editor",
-            "bio": "Elena reviews world cinema and cultural retrospectives.",
-            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
-            "slug": "elena-rostova",
-            "email": "elena.rostova@wiremingle.com"
-        }
+  {
+    "category": "entertainment",
+    "title": "International Film Festival Celebrates Renaissance of Cinema",
+    "slug": "international-film-festival-celebrates-cinema-renaissance",
+    "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 06, 2026",
+    "shortdescription": "Directors, actors, and independent filmmakers gathered for the opening ceremony of the annual festival featuring 120 premiere screenings.",
+    "description": [
+      {
+        "subtitle": "Global Storytelling Showcase",
+        "text": "The jury commended this year’s diverse lineup, highlighting groundbreaking cinematography and practical special effects masterworks."
+      }
+    ],
+    "author": {
+      "name": "Elena Rostova",
+      "role": "Arts & Culture Editor",
+      "bio": "Elena reviews world cinema and cultural retrospectives.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop",
+      "slug": "elena-rostova",
+      "email": "elena.rostova@wiremingle.com"
     }
+  },
+  {
+    "category": "entertainment",
+    "title": "Acoustic Symphony Hall Reopens After 3-Year Architectural Restoration",
+    "slug": "acoustic-symphony-hall-reopens-after-restoration",
+    "image": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 05, 2026",
+    "shortdescription": "The historic venue debuted state-of-the-art acoustic panels and immersive spatial audio technology during a sold-out opening night gala.",
+    "description": [
+      {
+        "subtitle": "A Triumph of Musical Engineering",
+        "text": "Conductors praised the pristine sonic balance that allows subtle woodwind passages to resonate crystal-clear to the highest balcony seats."
+      }
+    ],
+    "author": {
+      "name": "Elena Rostova",
+      "role": "Arts & Culture Editor",
+      "bio": "Elena reviews world cinema and cultural retrospectives.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop",
+      "slug": "elena-rostova",
+      "email": "elena.rostova@wiremingle.com"
+    }
+  },
+  {
+    "category": "entertainment",
+    "title": "Streaming Platforms Announce Joint Digital Heritage Preservation Fund",
+    "slug": "streaming-platforms-announce-digital-heritage-fund",
+    "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 04, 2026",
+    "shortdescription": "Major entertainment studios pledged $500 million to remaster and preserve 4K digital archives of classic mid-century television and film.",
+    "description": [
+      {
+        "subtitle": "Preserving Cinematic History",
+        "text": "Archivists will utilize machine learning restoration tools to repair damaged celluloid negatives and preserve historical audio recordings."
+      }
+    ],
+    "author": {
+      "name": "Elena Rostova",
+      "role": "Arts & Culture Editor",
+      "bio": "Elena reviews world cinema and cultural retrospectives.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop",
+      "slug": "elena-rostova",
+      "email": "elena.rostova@wiremingle.com"
+    }
+  },
+  {
+    "category": "entertainment",
+    "title": "Contemporary Art Triennale Draws Record Attendance in Venice",
+    "slug": "contemporary-art-triennale-draws-record-attendance",
+    "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 03, 2026",
+    "shortdescription": "Immersive light installations, architectural sculptures, and interactive digital exhibits transformed historic pavilions along the Grand Canal.",
+    "description": [
+      {
+        "subtitle": "Exploring Modern Visual Expression",
+        "text": "Curators noted an unprecedented surge in youth patronage driven by interactive installation designs and soundscape collaborations."
+      }
+    ],
+    "author": {
+      "name": "Elena Rostova",
+      "role": "Arts & Culture Editor",
+      "bio": "Elena reviews world cinema and cultural retrospectives.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop",
+      "slug": "elena-rostova",
+      "email": "elena.rostova@wiremingle.com"
+    }
+  },
+  {
+    "category": "entertainment",
+    "title": "Independent Literature Awards Announce 2026 Finalists",
+    "slug": "independent-literature-awards-announce-2026-finalists",
+    "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 02, 2026",
+    "shortdescription": "Sixteen novels, poetry collections, and translated memoirs were selected for the prestigious annual literary honours across four categories.",
+    "description": [
+      {
+        "subtitle": "Celebrating Original Voices",
+        "text": "Judges emphasized the exceptional narrative depth and linguistic innovation present in this year’s shortlisted fiction works."
+      }
+    ],
+    "author": {
+      "name": "Elena Rostova",
+      "role": "Arts & Culture Editor",
+      "bio": "Elena reviews world cinema and cultural retrospectives.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop",
+      "slug": "elena-rostova",
+      "email": "elena.rostova@wiremingle.com"
+    }
+  },
+  {
+    "category": "entertainment",
+    "title": "Global Live Music Industry Reports Historic Festival Expansion",
+    "slug": "global-live-music-industry-reports-festival-expansion",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 01, 2026",
+    "shortdescription": "Concert promoters unveiled new sustainable outdoor amphitheaters powered entirely by solar microgrids and hydrogen fuel cells.",
+    "description": [
+      {
+        "subtitle": "The Future of Eco-Friendly Live Events",
+        "text": "Organizers report zero single-use plastics and 100% renewable power utilization across major summer stadium tour dates."
+      }
+    ],
+    "author": {
+      "name": "Elena Rostova",
+      "role": "Arts & Culture Editor",
+      "bio": "Elena reviews world cinema and cultural retrospectives.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop",
+      "slug": "elena-rostova",
+      "email": "elena.rostova@wiremingle.com"
+    }
+  }
 ]

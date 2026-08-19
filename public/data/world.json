@@ -1,138 +1,138 @@
 [
-    {
-        "category": "world",
-        "title": "Ukraine Strikes More Oil Facilities Deep Inside Russia, Zelenskyy Says",
-        "slug": "ukraine-strikes-more-oil-facilities-deep-inside-russia-zelenskyy-says",
-        "image": "/images/russian_oil_facility.png",
-        "date": "August. 06, 2026",
-        "shortdescription": "Ukrainian President Volodymyr Zelenskyy says Kyiv has carried out new strikes against Russian oil facilities deep inside Russia as part of efforts to weaken Moscow’s war economy.",
-        "description": [
-            {
-                "subtitle": "Ukraine Targets Russian Energy Infrastructure Far From the Front Line",
-                "text": "Ukraine has launched new strikes against oil facilities deep inside Russian territory, according to President Volodymyr Zelenskyy, as Kyiv expands its campaign against infrastructure that supports Russia’s wartime economy.\n\nThe attacks reportedly targeted oil-related facilities in regions far from the battlefield, including areas such as Bashkortostan and the Yaroslavl region. Ukraine says these operations are designed to reduce Russia’s ability to finance and sustain its military campaign."
-            },
-            {
-                "subtitle": "Zelenskyy Says Strikes Aim to Weaken Russia’s War Capability",
-                "text": "Zelenskyy has defended Ukraine’s long-range attacks as necessary measures to limit Russia’s ability to continue its invasion. Ukrainian officials say targeting refineries, fuel facilities and logistics networks can reduce resources available for Russian forces."
-            }
-        ],
-        "author": {
-            "name": "Ramon T. Maris",
-            "role": "International Affairs Correspondent",
-            "bio": "Ramon T. Maris covers global conflicts, defense strategy, energy security and geopolitical developments with a focus on modern warfare.",
-            "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
-            "slug": "ramon-t-maris",
-            "email": "ramon.maris@wiremingle.com"
-        }
-    },
-    {
-        "category": "world",
-        "title": "Global Climate Summit Reaches Historic Agreement on Emissions Reduction",
-        "slug": "global-climate-summit-reaches-historic-agreement",
-        "image": "/images/climate_summit.png",
-        "date": "August. 05, 2026",
-        "shortdescription": "World leaders have agreed on a new timeline to phase out fossil fuels during the latest summit in Geneva, setting ambitious targets for the next decade.",
-        "description": [
-            {
-                "subtitle": "A Unanimous Push for Green Energy",
-                "text": "In a surprising turn of events, representatives from over 190 countries have signed a binding agreement to accelerate the transition to renewable energy sources."
-            }
-        ],
-        "author": {
-            "name": "Elena Rostova",
-            "role": "Environment Editor",
-            "bio": "Elena has been covering global climate policies for over 15 years.",
-            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
-            "slug": "elena-rostova",
-            "email": "elena.rostova@wiremingle.com"
-        }
-    },
-    {
-        "category": "world",
-        "title": "European Union Unveils New High-Speed Rail Infrastructure Masterplan",
-        "slug": "european-union-unveils-high-speed-rail-masterplan",
-        "image": "https://images.unsplash.com/photo-1541427468627-a89a96e5ca1d?w=800&q=80",
-        "date": "August. 04, 2026",
-        "shortdescription": "The European Commission announced a €120 billion investment connecting major European capitals with next-generation zero-emission express rail lines.",
-        "description": [
-            {
-                "subtitle": "Transforming Transcontinental Travel",
-                "text": "The ambitious rail expansion aims to halve journey times between major hubs like Paris, Berlin, and Vienna while cutting regional aviation carbon emissions."
-            }
-        ],
-        "author": {
-            "name": "Jean-Pierre Dubois",
-            "role": "European Affairs Editor",
-            "bio": "Jean-Pierre specializes in EU policy, trade corridors, and sustainable transport networks.",
-            "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
-            "slug": "jean-pierre-dubois",
-            "email": "jp.dubois@wiremingle.com"
-        }
-    },
-    {
-        "category": "world",
-        "title": "Pacific Rim Maritime Trade Accord Signed in Tokyo by Twelve Nations",
-        "slug": "pacific-rim-maritime-trade-accord-signed-in-tokyo",
-        "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=800&q=80",
-        "date": "August. 03, 2026",
-        "shortdescription": "Twelve Indo-Pacific nations ratified a modernized maritime safety and customs agreement to streamline cargo traffic across key international shipping lanes.",
-        "description": [
-            {
-                "subtitle": "Securing Supply Chains Across Asia-Pacific",
-                "text": "The treaty standardizes digital port clearances, enhances naval safety coordination, and establishes new green shipping corridors across the Pacific Ocean."
-            }
-        ],
-        "author": {
-            "name": "Kenji Sato",
-            "role": "Asia-Pacific Trade Analyst",
-            "bio": "Kenji covers East Asian economics, supply chain logistics, and diplomatic affairs from Tokyo.",
-            "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&q=80",
-            "slug": "kenji-sato",
-            "email": "kenji.sato@wiremingle.com"
-        }
-    },
-    {
-        "category": "world",
-        "title": "UN General Assembly Adopts Landmark Resolution on AI Governance",
-        "slug": "un-general-assembly-adopts-landmark-ai-resolution",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-        "date": "August. 02, 2026",
-        "shortdescription": "The United Nations passed a global consensus resolution establishing multilateral principles for ethical artificial intelligence and cross-border safety.",
-        "description": [
-            {
-                "subtitle": "Global Standards for Emergent Technology",
-                "text": "Delegates from 193 member states voted in favor of the framework, which encourages open auditing, privacy safeguards, and equitable technological access for developing nations."
-            }
-        ],
-        "author": {
-            "name": "Amara Diallo",
-            "role": "UN & Global Policy Correspondent",
-            "bio": "Amara reports on multilateral treaties, global governance, and humanitarian affairs.",
-            "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&q=80",
-            "slug": "amara-diallo",
-            "email": "amara.diallo@wiremingle.com"
-        }
-    },
-    {
-        "category": "world",
-        "title": "Diplomatic Summit Begins in Geneva Over Horn of Africa Grain Corridors",
-        "slug": "diplomatic-summit-begins-in-geneva-over-grain-corridors",
-        "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-        "date": "August. 01, 2026",
-        "shortdescription": "Envoys from East Africa, the European Union, and international aid agencies gathered in Geneva to negotiate uninterrupted grain distribution routes.",
-        "description": [
-            {
-                "subtitle": "Ensuring Global Food Security",
-                "text": "Mediators expressed optimism that a new humanitarian transit treaty will prevent supply disruptions and stabilize essential food prices across regional markets."
-            }
-        ],
-        "author": {
-            "name": "Elena Rostova",
-            "role": "Environment Editor",
-            "bio": "Elena has been covering global climate and food security policies for over 15 years.",
-            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
-            "slug": "elena-rostova",
-            "email": "elena.rostova@wiremingle.com"
-        }
+  {
+    "category": "world",
+    "title": "Ukraine Strikes More Oil Facilities Deep Inside Russia, Zelenskyy Says",
+    "slug": "ukraine-strikes-more-oil-facilities-deep-inside-russia-zelenskyy-says",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 06, 2026",
+    "shortdescription": "Ukrainian President Volodymyr Zelenskyy says Kyiv has carried out new strikes against Russian oil facilities deep inside Russia as part of efforts to weaken Moscow’s war economy.",
+    "description": [
+      {
+        "subtitle": "Ukraine Targets Russian Energy Infrastructure Far From the Front Line",
+        "text": "Ukraine has launched new strikes against oil facilities deep inside Russian territory, according to President Volodymyr Zelenskyy, as Kyiv expands its campaign against infrastructure that supports Russia’s wartime economy.\n\nThe attacks reportedly targeted oil-related facilities in regions far from the battlefield, including areas such as Bashkortostan and the Yaroslavl region. Ukraine says these operations are designed to reduce Russia’s ability to finance and sustain its military campaign."
+      },
+      {
+        "subtitle": "Zelenskyy Says Strikes Aim to Weaken Russia’s War Capability",
+        "text": "Zelenskyy has defended Ukraine’s long-range attacks as necessary measures to limit Russia’s ability to continue its invasion. Ukrainian officials say targeting refineries, fuel facilities and logistics networks can reduce resources available for Russian forces."
+      }
+    ],
+    "author": {
+      "name": "Ramon T. Maris",
+      "role": "International Affairs Correspondent",
+      "bio": "Ramon T. Maris covers global conflicts, defense strategy, energy security and geopolitical developments with a focus on modern warfare.",
+      "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?q=80&w=600&auto=format&fit=crop",
+      "slug": "ramon-t-maris",
+      "email": "ramon.maris@wiremingle.com"
     }
+  },
+  {
+    "category": "world",
+    "title": "Global Climate Summit Reaches Historic Agreement on Emissions Reduction",
+    "slug": "global-climate-summit-reaches-historic-agreement",
+    "image": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 05, 2026",
+    "shortdescription": "World leaders have agreed on a new timeline to phase out fossil fuels during the latest summit in Geneva, setting ambitious targets for the next decade.",
+    "description": [
+      {
+        "subtitle": "A Unanimous Push for Green Energy",
+        "text": "In a surprising turn of events, representatives from over 190 countries have signed a binding agreement to accelerate the transition to renewable energy sources."
+      }
+    ],
+    "author": {
+      "name": "Elena Rostova",
+      "role": "Environment Editor",
+      "bio": "Elena has been covering global climate policies for over 15 years.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop",
+      "slug": "elena-rostova",
+      "email": "elena.rostova@wiremingle.com"
+    }
+  },
+  {
+    "category": "world",
+    "title": "European Union Unveils New High-Speed Rail Infrastructure Masterplan",
+    "slug": "european-union-unveils-high-speed-rail-masterplan",
+    "image": "https://images.unsplash.com/photo-1515165562839-978bbcf18277?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 04, 2026",
+    "shortdescription": "The European Commission announced a €120 billion investment connecting major European capitals with next-generation zero-emission express rail lines.",
+    "description": [
+      {
+        "subtitle": "Transforming Transcontinental Travel",
+        "text": "The ambitious rail expansion aims to halve journey times between major hubs like Paris, Berlin, and Vienna while cutting regional aviation carbon emissions."
+      }
+    ],
+    "author": {
+      "name": "Jean-Pierre Dubois",
+      "role": "European Affairs Editor",
+      "bio": "Jean-Pierre specializes in EU policy, trade corridors, and sustainable transport networks.",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=600&auto=format&fit=crop",
+      "slug": "jean-pierre-dubois",
+      "email": "jp.dubois@wiremingle.com"
+    }
+  },
+  {
+    "category": "world",
+    "title": "Pacific Rim Maritime Trade Accord Signed in Tokyo by Twelve Nations",
+    "slug": "pacific-rim-maritime-trade-accord-signed-in-tokyo",
+    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 03, 2026",
+    "shortdescription": "Twelve Indo-Pacific nations ratified a modernized maritime safety and customs agreement to streamline cargo traffic across key international shipping lanes.",
+    "description": [
+      {
+        "subtitle": "Securing Supply Chains Across Asia-Pacific",
+        "text": "The treaty standardizes digital port clearances, enhances naval safety coordination, and establishes new green shipping corridors across the Pacific Ocean."
+      }
+    ],
+    "author": {
+      "name": "Kenji Sato",
+      "role": "Asia-Pacific Trade Analyst",
+      "bio": "Kenji covers East Asian economics, supply chain logistics, and diplomatic affairs from Tokyo.",
+      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=600&auto=format&fit=crop",
+      "slug": "kenji-sato",
+      "email": "kenji.sato@wiremingle.com"
+    }
+  },
+  {
+    "category": "world",
+    "title": "UN General Assembly Adopts Landmark Resolution on AI Governance",
+    "slug": "un-general-assembly-adopts-landmark-ai-resolution",
+    "image": "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 02, 2026",
+    "shortdescription": "The United Nations passed a global consensus resolution establishing multilateral principles for ethical artificial intelligence and cross-border safety.",
+    "description": [
+      {
+        "subtitle": "Global Standards for Emergent Technology",
+        "text": "Delegates from 193 member states voted in favor of the framework, which encourages open auditing, privacy safeguards, and equitable technological access for developing nations."
+      }
+    ],
+    "author": {
+      "name": "Amara Diallo",
+      "role": "UN & Global Policy Correspondent",
+      "bio": "Amara reports on multilateral treaties, global governance, and humanitarian affairs.",
+      "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=600&auto=format&fit=crop",
+      "slug": "amara-diallo",
+      "email": "amara.diallo@wiremingle.com"
+    }
+  },
+  {
+    "category": "world",
+    "title": "Diplomatic Summit Begins in Geneva Over Horn of Africa Grain Corridors",
+    "slug": "diplomatic-summit-begins-in-geneva-over-grain-corridors",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 01, 2026",
+    "shortdescription": "Envoys from East Africa, the European Union, and international aid agencies gathered in Geneva to negotiate uninterrupted grain distribution routes.",
+    "description": [
+      {
+        "subtitle": "Ensuring Global Food Security",
+        "text": "Mediators expressed optimism that a new humanitarian transit treaty will prevent supply disruptions and stabilize essential food prices across regional markets."
+      }
+    ],
+    "author": {
+      "name": "Elena Rostova",
+      "role": "Environment Editor",
+      "bio": "Elena has been covering global climate and food security policies for over 15 years.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop",
+      "slug": "elena-rostova",
+      "email": "elena.rostova@wiremingle.com"
+    }
+  }
 ]

@@ -1,134 +1,134 @@
 [
-    {
-        "category": "business",
-        "title": "Major Tech Firms Announce Joint AI Safety Initiative",
-        "slug": "major-tech-firms-announce-joint-ai-safety-initiative",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
-        "date": "August. 06, 2026",
-        "shortdescription": "Leading technology companies have formed a new coalition to establish industry-wide standards for the safe development of artificial intelligence.",
-        "description": [
-            {
-                "subtitle": "Unprecedented Collaboration",
-                "text": "The CEOs of top tech giants announced the formation of the AI Safety Alliance, pledging billions of dollars toward research into safe AI deployment."
-            }
-        ],
-        "author": {
-            "name": "Sarah Jenkins",
-            "role": "Business Analyst",
-            "bio": "Sarah covers markets and tech business strategies.",
-            "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
-            "slug": "sarah-jenkins",
-            "email": "sarah.jenkins@wiremingle.com"
-        }
-    },
-    {
-        "category": "business",
-        "title": "Global Markets Rally Following Positive Inflation Data",
-        "slug": "global-markets-rally-positive-inflation-data",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-        "date": "August. 05, 2026",
-        "shortdescription": "Stock markets worldwide saw significant gains after reports indicated inflation rates are cooling faster than anticipated.",
-        "description": [
-            {
-                "subtitle": "Investor Confidence Returns",
-                "text": "Indices in the US, Europe, and Asia closed up by an average of 2.5%, marking the best trading week of the year as investors bet on imminent rate cuts."
-            }
-        ],
-        "author": {
-            "name": "Michael Chang",
-            "role": "Financial Correspondent",
-            "bio": "Michael tracks global equities and macroeconomic trends.",
-            "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
-            "slug": "michael-chang",
-            "email": "michael.chang@wiremingle.com"
-        }
-    },
-    {
-        "category": "business",
-        "title": "Central Banks Signal Potential Interest Rate Cuts Ahead of Fall Quarter",
-        "slug": "central-banks-signal-potential-interest-rate-cuts",
-        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&q=80",
-        "date": "August. 04, 2026",
-        "shortdescription": "Financial authorities hinted at monetary easing following consecutive quarters of stabilized commercial growth and reduced pricing pressure.",
-        "description": [
-            {
-                "subtitle": "Easing Financial Conditions",
-                "text": "Economists predict a series of 25-basis-point reductions that could re-energize venture capital investments and commercial real estate lending."
-            }
-        ],
-        "author": {
-            "name": "Sarah Jenkins",
-            "role": "Business Analyst",
-            "bio": "Sarah covers markets and tech business strategies.",
-            "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
-            "slug": "sarah-jenkins",
-            "email": "sarah.jenkins@wiremingle.com"
-        }
-    },
-    {
-        "category": "business",
-        "title": "Green Energy Investment Reaches Record $1.5 Trillion Worldwide",
-        "slug": "green-energy-investment-reaches-record-1-5-trillion",
-        "image": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=800&q=80",
-        "date": "August. 03, 2026",
-        "shortdescription": "Private capital expenditure in solar, wind, and grid infrastructure surpassed fossil fuel investments for the third consecutive year.",
-        "description": [
-            {
-                "subtitle": "Capital Realignment Across Energy Sectors",
-                "text": "Institutional funds and sovereign wealth entities continue to reallocate assets toward sustainable utilities and clean grid storage projects."
-            }
-        ],
-        "author": {
-            "name": "Michael Chang",
-            "role": "Financial Correspondent",
-            "bio": "Michael tracks global equities and macroeconomic trends.",
-            "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
-            "slug": "michael-chang",
-            "email": "michael.chang@wiremingle.com"
-        }
-    },
-    {
-        "category": "business",
-        "title": "Global Semiconductor Alliance Announces $50B Manufacturing Hub",
-        "slug": "global-semiconductor-alliance-announces-50b-hub",
-        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-        "date": "August. 02, 2026",
-        "shortdescription": "A coalition of chipmakers and electronics manufacturers broke ground on a massive automated fabrication complex designed to boost supply resilience.",
-        "description": [
-            {
-                "subtitle": "Securing Silicon Supply",
-                "text": "The state-of-the-art facility will produce next-generation 2nm microchips for automotive, aerospace, and high-performance computing applications."
-            }
-        ],
-        "author": {
-            "name": "Sarah Jenkins",
-            "role": "Business Analyst",
-            "bio": "Sarah covers markets and tech business strategies.",
-            "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
-            "slug": "sarah-jenkins",
-            "email": "sarah.jenkins@wiremingle.com"
-        }
-    },
-    {
-        "category": "business",
-        "title": "E-Commerce Logistics Shift Toward Autonomous Fleet Delivery Networks",
-        "slug": "e-commerce-logistics-shift-toward-autonomous-fleets",
-        "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
-        "date": "August. 01, 2026",
-        "shortdescription": "Major retail platforms are deploying electric self-driving freight vans and regional automated fulfillment hubs to cut last-mile delivery costs.",
-        "description": [
-            {
-                "subtitle": "Efficiency Gains in Modern Freight",
-                "text": "Logistics providers report a 35% reduction in transit times and lower carbon footprints across metropolitan logistics networks."
-            }
-        ],
-        "author": {
-            "name": "Michael Chang",
-            "role": "Financial Correspondent",
-            "bio": "Michael tracks global equities and macroeconomic trends.",
-            "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
-            "slug": "michael-chang",
-            "email": "michael.chang@wiremingle.com"
-        }
+  {
+    "category": "business",
+    "title": "Major Tech Firms Announce Joint AI Safety Initiative",
+    "slug": "major-tech-firms-announce-joint-ai-safety-initiative",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 06, 2026",
+    "shortdescription": "Leading technology companies have formed a new coalition to establish industry-wide standards for the safe development of artificial intelligence.",
+    "description": [
+      {
+        "subtitle": "Unprecedented Collaboration",
+        "text": "The CEOs of top tech giants announced the formation of the AI Safety Alliance, pledging billions of dollars toward research into safe AI deployment."
+      }
+    ],
+    "author": {
+      "name": "Sarah Jenkins",
+      "role": "Business Analyst",
+      "bio": "Sarah covers markets and tech business strategies.",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=600&auto=format&fit=crop",
+      "slug": "sarah-jenkins",
+      "email": "sarah.jenkins@wiremingle.com"
     }
+  },
+  {
+    "category": "business",
+    "title": "Global Markets Rally Following Positive Inflation Data",
+    "slug": "global-markets-rally-positive-inflation-data",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 05, 2026",
+    "shortdescription": "Stock markets worldwide saw significant gains after reports indicated inflation rates are cooling faster than anticipated.",
+    "description": [
+      {
+        "subtitle": "Investor Confidence Returns",
+        "text": "Indices in the US, Europe, and Asia closed up by an average of 2.5%, marking the best trading week of the year as investors bet on imminent rate cuts."
+      }
+    ],
+    "author": {
+      "name": "Michael Chang",
+      "role": "Financial Correspondent",
+      "bio": "Michael tracks global equities and macroeconomic trends.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=600&auto=format&fit=crop",
+      "slug": "michael-chang",
+      "email": "michael.chang@wiremingle.com"
+    }
+  },
+  {
+    "category": "business",
+    "title": "Central Banks Signal Potential Interest Rate Cuts Ahead of Fall Quarter",
+    "slug": "central-banks-signal-potential-interest-rate-cuts",
+    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 04, 2026",
+    "shortdescription": "Financial authorities hinted at monetary easing following consecutive quarters of stabilized commercial growth and reduced pricing pressure.",
+    "description": [
+      {
+        "subtitle": "Easing Financial Conditions",
+        "text": "Economists predict a series of 25-basis-point reductions that could re-energize venture capital investments and commercial real estate lending."
+      }
+    ],
+    "author": {
+      "name": "Sarah Jenkins",
+      "role": "Business Analyst",
+      "bio": "Sarah covers markets and tech business strategies.",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=600&auto=format&fit=crop",
+      "slug": "sarah-jenkins",
+      "email": "sarah.jenkins@wiremingle.com"
+    }
+  },
+  {
+    "category": "business",
+    "title": "Green Energy Investment Reaches Record $1.5 Trillion Worldwide",
+    "slug": "green-energy-investment-reaches-record-1-5-trillion",
+    "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 03, 2026",
+    "shortdescription": "Private capital expenditure in solar, wind, and grid infrastructure surpassed fossil fuel investments for the third consecutive year.",
+    "description": [
+      {
+        "subtitle": "Capital Realignment Across Energy Sectors",
+        "text": "Institutional funds and sovereign wealth entities continue to reallocate assets toward sustainable utilities and clean grid storage projects."
+      }
+    ],
+    "author": {
+      "name": "Michael Chang",
+      "role": "Financial Correspondent",
+      "bio": "Michael tracks global equities and macroeconomic trends.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=600&auto=format&fit=crop",
+      "slug": "michael-chang",
+      "email": "michael.chang@wiremingle.com"
+    }
+  },
+  {
+    "category": "business",
+    "title": "Global Semiconductor Alliance Announces $50B Manufacturing Hub",
+    "slug": "global-semiconductor-alliance-announces-50b-hub",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 02, 2026",
+    "shortdescription": "A coalition of chipmakers and electronics manufacturers broke ground on a massive automated fabrication complex designed to boost supply resilience.",
+    "description": [
+      {
+        "subtitle": "Securing Silicon Supply",
+        "text": "The state-of-the-art facility will produce next-generation 2nm microchips for automotive, aerospace, and high-performance computing applications."
+      }
+    ],
+    "author": {
+      "name": "Sarah Jenkins",
+      "role": "Business Analyst",
+      "bio": "Sarah covers markets and tech business strategies.",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=600&auto=format&fit=crop",
+      "slug": "sarah-jenkins",
+      "email": "sarah.jenkins@wiremingle.com"
+    }
+  },
+  {
+    "category": "business",
+    "title": "E-Commerce Logistics Shift Toward Autonomous Fleet Delivery Networks",
+    "slug": "e-commerce-logistics-shift-toward-autonomous-fleets",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80",
+    "date": "August. 01, 2026",
+    "shortdescription": "Major retail platforms are deploying electric self-driving freight vans and regional automated fulfillment hubs to cut last-mile delivery costs.",
+    "description": [
+      {
+        "subtitle": "Efficiency Gains in Modern Freight",
+        "text": "Logistics providers report a 35% reduction in transit times and lower carbon footprints across metropolitan logistics networks."
+      }
+    ],
+    "author": {
+      "name": "Michael Chang",
+      "role": "Financial Correspondent",
+      "bio": "Michael tracks global equities and macroeconomic trends.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=600&auto=format&fit=crop",
+      "slug": "michael-chang",
+      "email": "michael.chang@wiremingle.com"
+    }
+  }
 ]

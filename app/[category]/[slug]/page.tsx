@@ -1,4 +1,4 @@
-import { getArticleBySlug, getArticlesByCategory } from "@/lib/api";
+import { getArticleBySlug, getArticlesByCategory, slugifyAuthor } from "@/lib/api";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 
@@ -24,6 +24,7 @@ export default async function DetailPage({ params }: DetailPageProps) {
     .slice(0, 6);
 
   const categoryTitle = category.toUpperCase();
+  const authorSlug = article.author ? slugifyAuthor(article.author.name) : "editorial-board";
 
   return (
     <main className="w-full bg-paper text-ink pb-8 animate-fade-in">
@@ -55,24 +56,24 @@ export default async function DetailPage({ params }: DetailPageProps) {
           {/* Author Byline & Meta */}
           {article.author && (
             <div className="flex flex-wrap items-center gap-6 font-sans text-xs pt-2">
-              <div className="flex items-center gap-3">
+              <Link href={`/author/${authorSlug}`} className="group flex items-center gap-3">
                 {article.author.image ? (
                   // eslint-disable-next-line @next/next/no-img-element
                   <img
                     src={article.author.image}
                     alt={article.author.name}
-                    className="w-10 h-10 rounded-full object-cover border border-ink/10 shadow-sm"
+                    className="w-10 h-10 rounded-full object-cover border border-ink/10 shadow-sm group-hover:ring-2 group-hover:ring-blue-950 transition-all"
                   />
                 ) : (
-                  <div className="w-10 h-10 rounded-full bg-blue-950 text-paper flex items-center justify-center font-bold text-xs font-serif shadow-sm">
+                  <div className="w-10 h-10 rounded-full bg-blue-950 text-paper flex items-center justify-center font-bold text-xs font-serif shadow-sm group-hover:bg-blue-800 transition-colors">
                     {article.author.name.charAt(0)}
                   </div>
                 )}
                 <div className="text-left text-ink">
-                  <span className="font-bold block text-sm">{article.author.name}</span>
+                  <span className="font-bold block text-sm group-hover:underline group-hover:text-blue-950 transition-colors">{article.author.name}</span>
                   <span className="text-gray-500 uppercase tracking-widest text-[10px] font-bold">{article.author.role || "Journalist"}</span>
                 </div>
-              </div>
+              </Link>
 
               <div className="flex items-center gap-3 text-gray-500 border-l border-ink/10 pl-6 h-8">
                 <span className="font-bold text-ink">{article.date}</span>

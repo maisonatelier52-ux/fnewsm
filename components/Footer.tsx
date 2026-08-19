@@ -66,9 +66,9 @@ export default function Footer() {
 
       {/* Middle Section: Links Navigation Grid */}
       <div className="py-10 border-b border-blue-900/50">
-        <div className="max-w-[1600px] mx-auto px-6 sm:px-10 lg:px-16 xl:px-24 grid grid-cols-2 md:grid-cols-4 gap-8 lg:gap-12">
+        <div className="max-w-[1600px] mx-auto px-6 sm:px-10 lg:px-16 xl:px-24 grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-12">
 
-          {/* Column 1: Primary Categories */}
+          {/* Column 1: News Categories */}
           <div>
             <h4 className="text-xs font-bold uppercase tracking-widest text-white mb-5 font-sans border-b border-blue-900/50 pb-2">
               News Categories
@@ -95,83 +95,56 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Column 2: Desks & Coverage */}
+          {/* Column 2: Information & Editorial */}
           <div>
             <h4 className="text-xs font-bold uppercase tracking-widest text-white mb-5 font-sans border-b border-blue-900 pb-2">
-              Special Desks
+              Information & Editorial
             </h4>
             <ul className="flex flex-col gap-2.5 text-xs text-blue-200 font-medium">
               <li>
-                <Link href="/world" className="hover:underline decoration-1 underline-offset-2 transition-all">Investigative Reports</Link>
+                <Link href="/about" className="hover:underline decoration-1 underline-offset-2 transition-all">About Us</Link>
               </li>
               <li>
-                <Link href="/business" className="hover:underline decoration-1 underline-offset-2 transition-all">Financial Markets</Link>
+                <Link href="/team" className="hover:underline decoration-1 underline-offset-2 transition-all">Our Team</Link>
               </li>
               <li>
-                <Link href="/us" className="hover:underline decoration-1 underline-offset-2 transition-all">Policy & Politics</Link>
+                <Link href="/contact" className="hover:underline decoration-1 underline-offset-2 transition-all">Contact</Link>
               </li>
               <li>
-                <Link href="/technology" className="hover:underline decoration-1 underline-offset-2 transition-all">Artificial Intelligence</Link>
+                <Link href="/editorial-policy" className="hover:underline decoration-1 underline-offset-2 transition-all">Editorial Policy</Link>
               </li>
               <li>
-                <Link href="/world" className="hover:underline decoration-1 underline-offset-2 transition-all">Global Affairs</Link>
+                <Link href="/source-methodology" className="hover:underline decoration-1 underline-offset-2 transition-all">Source Methodology</Link>
               </li>
               <li>
-                <Link href="/entertainment" className="hover:underline decoration-1 underline-offset-2 transition-all">Opinion & Columns</Link>
+                <Link href="/right-of-reply-policy" className="hover:underline decoration-1 underline-offset-2 transition-all">Right of Reply Policy</Link>
+              </li>
+              <li>
+                <Link href="/faq" className="hover:underline decoration-1 underline-offset-2 transition-all">Faq</Link>
               </li>
             </ul>
           </div>
 
-          {/* Column 3: About & Company */}
+          {/* Column 3: Legal & Governance */}
           <div>
             <h4 className="text-xs font-bold uppercase tracking-widest text-white mb-5 font-sans border-b border-blue-900 pb-2">
-              Organization
+              Legal & Governance
             </h4>
             <ul className="flex flex-col gap-2.5 text-xs text-blue-200 font-medium">
               <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">About Domain Name</a>
+                <Link href="/terms-and-conditions" className="hover:underline decoration-1 underline-offset-2 transition-all">Terms And Conditions</Link>
               </li>
               <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Masthead & Leadership</a>
+                <Link href="/legal" className="hover:underline decoration-1 underline-offset-2 transition-all">Legal</Link>
               </li>
               <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Editorial Standards</a>
+                <Link href="/ownership-and-funding" className="hover:underline decoration-1 underline-offset-2 transition-all">Ownership & Funding</Link>
               </li>
               <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Newsroom Careers</a>
+                <Link href="/privacy-policy" className="hover:underline decoration-1 underline-offset-2 transition-all">Privacy Policy</Link>
               </li>
               <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Press Inquiries</a>
-              </li>
-              <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Diversity & Inclusion</a>
-              </li>
-            </ul>
-          </div>
-
-          {/* Column 4: Legal & Contact */}
-          <div>
-            <h4 className="text-xs font-bold uppercase tracking-widest text-white mb-5 font-sans border-b border-blue-900 pb-2">
-              Support & Legal
-            </h4>
-            <ul className="flex flex-col gap-2.5 text-xs text-blue-200 font-medium">
-              <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Help & Contact Center</a>
-              </li>
-              <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Privacy Policy</a>
-              </li>
-              <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Terms of Service</a>
-              </li>
-              <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Subscription Terms</a>
-              </li>
-              <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Cookie Preferences</a>
-              </li>
-              <li>
-                <a href="#" className="hover:underline decoration-1 underline-offset-2 transition-all">Site Directory</a>
+                <Link href="/advertising-and-sponsored-policy" className="hover:underline decoration-1 underline-offset-2 transition-all">Advertising & Sponsored Policy</Link>
               </li>
             </ul>
           </div>
